@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8475'
     url: http://www.gutenberg.org/2009/agents/8475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25909#The-ArenaVolume-4-No.-24-November-1891
 gutenberg_bookshelf: The Arena
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
